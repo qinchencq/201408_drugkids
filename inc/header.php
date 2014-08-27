@@ -4,7 +4,7 @@
 	<head>
                 <meta charset="utf-8">
                 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
                 
                 <title>Drugging Our Kids | San Jose Mercury News</title>
                 <meta name="description" content="California’s foster-care system is giving thousands of kids psychotropic drugs instead of providing stable homes and loving families." />
