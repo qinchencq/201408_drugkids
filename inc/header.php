@@ -50,6 +50,7 @@
                 <link rel="stylesheet" media="(max-width: 882px)" href="css/screen_882.css">    
                 <link rel="stylesheet" media="(max-width: 768px)" href="css/tablet_768.css">
                 <link rel="stylesheet" media="(max-width: 640px)" href="css/phone_640.css">
+                <link rel="stylesheet" media="(max-width: 578px)" href="css/phone_landscape.css">
                 <!--JS-->
                 <script src="js/vendor/modernizr.js"></script> 
 

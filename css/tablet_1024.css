@@ -1,9 +1,9 @@
 /*CSS For Tablet Landscape*/
-@media (min-width:982px) and (max-width: 1024px) {  
+@media (min-width:982px) and (max-width: 1024px) and (orientation: landscape){  
 
-	video#launch_video {
+	/*video#launch_video {
 		min-height: 84%;
-	}
+	}*/
 	.slider-next a, .slider-prev a {
 		margin-top:-38%;
 	}	
@@ -21,6 +21,9 @@
 	  height:none;
 	  /* background-image:none; */
 	  /*visibility: hidden;*/
+	}
+	div.foster-title-wrap {
+		margin: 70px 0 0 100px;
 	}
 
 
