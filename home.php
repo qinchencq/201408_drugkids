@@ -576,7 +576,7 @@
                    </div> 
 
                   <div class="last-p row foster-article article-end">
-                      <div class="small-12 small-centered medium-1 medium-centered large-centered large-1 columns">
+                      <div class="small-12 small-centered medium-2 medium-centered large-centered large-1 columns">
                          #   #   #
                       </div>
                    </div> 
