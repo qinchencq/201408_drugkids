@@ -1,0 +1,46 @@
+/*CSS For Tablet*/
+@media (max-width: 780px) {  
+
+	div.open-image {
+	  position:absolute;
+	  width:100%;
+	  height:400px;
+	  background-image: url(../img/open_img.jpg);
+	  background-position: top;
+	  background-size:100% auto;
+	  height:none;
+	  /* background-image:none; */
+	  /*visibility: hidden;*/
+	}
+	div.foster-title-wrap {
+		  margin: 20px 0 0 20px;
+	}
+	div.foster-article div.article-img img {
+		margin-right:none;
+		float:none;
+		padding:none;
+		margin-bottom:15px;
+	}
+	div.first-wrap {
+  		padding-top: 0;
+  		margin-top:-10px;
+	}
+
+	div.foster-deck p {
+		font-size: 1em;
+		line-height: 1em;
+	}
+	.slider-next a, .slider-prev a {
+		margin-top:-42%;
+	}
+	video#launch_video {
+		min-height: 47.25%;
+	}
+	div.foster-title-wrap p {
+		margin-bottom:0.65rem;
+	}
+	div.foster-title p {
+		font-size:3em;
+		line-height: 1em;
+	}
+}/*end of media queris*/

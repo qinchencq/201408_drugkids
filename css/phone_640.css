@@ -1,0 +1,82 @@
+/*CSS For Tablet*/
+@media only screen and (max-width: 640px) {  
+	/*NAV*/
+	div.open-video {
+		background:#000;
+	}
+	video#launch_video {/*move down the video so the nav can be touchable*/	
+		min-height: 40%;
+		/*margin-top:12%  goes to main.css content, padding top navheight*/
+	}
+	div.open-image {
+	  position:absolute;
+	  width:100%;
+	  min-height:200px;
+	  background-image: url(../img/open_img.jpg);
+	  background-position: top;
+	  background-size:100% auto;
+	  height:none;
+	  /*background-image:none;
+	  /*visibility: hidden;*/
+	}
+
+	div.foster-head p, div.foster-title p, div.foster-deck p,div.foster-credit p {
+		color:#000;
+	}
+	div.nav-brand {
+		padding:5px 5px 0px 5px;
+	}
+	a.open-panel {
+		margin-left:27px;
+	}
+	div#nav-share {
+		margin-top:-31px;
+		padding-right:0px;
+	} 
+	nav#nav-inner i {
+		font-size:1.2em;
+	}
+
+	/*launch title*/
+	div.foster-title-wrap {
+		  margin: 200px 0 0 20px;
+	}	
+	div.foster-title-wrap p {
+		margin-bottom:0.4rem;
+	}
+	div.first-wrap {
+		/*margin-top:-100px;*/
+		margin-top:none;
+	}
+	div.foster-head p {
+		font-size:0.7em;
+	}
+	div.foster-title p {
+		font-size:2.5em;
+		padding-bottom:5px;
+	}
+	div.foster-deck p {
+		font-size: 1em;
+		margin-top:-5px;
+	}
+	div.foster-credit p {
+		font-size:0.6em;
+		line-height:1.3em;
+	}
+	/*SLIDE*/
+	.slider-next a, .slider-prev a {
+		margin-top:-68%;
+	}
+	/*img*/
+	.single-slide img, .single-slide-cap {
+		margin-left:0px;
+	}
+	.slidercaption {
+		font-size:0.8em;
+	}
+	/*SIDEBAR*/
+	h3.sidebar_head {
+		padding-left:0px;
+	}
+
+}

@@ -1,0 +1,30 @@
+/*CSS For Small Computer Screen*/
+@media (max-width: 1024px) {  
+    /*navigation*/
+    div#foster-nav {
+    	height:40px;
+    }
+    #foster-nav nav ul li.active {
+        height:40px;
+    }
+    div.nav-brand {
+    	padding:5px 5px 0px 25px;
+    }
+
+    #foster-nav nav ul.nav-item li a{
+    	padding:0px 10px;
+    }
+
+    div#nav-share ul li {
+    	padding:0px 7px;
+    }
+
+    div.nav-title h3{
+    	margin-top:10px;
+    }
+
+    .slider-next a, .slider-prev a {
+        margin-top:-40%;
+    }
+
+} 
